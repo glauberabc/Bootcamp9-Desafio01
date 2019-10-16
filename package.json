@@ -1,0 +1,16 @@
+{
+  "name": "desafio01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "glauber <glauberabc@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },  
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
